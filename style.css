@@ -109,7 +109,7 @@ span {
   position: absolute;
   color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
-  text-shadow: 2px 0 rgb(120,120,120), -2px 0 rgb(120,120,120), 0 2px rgb(120,120,120), 0 -2px rgb(120,120,120), 1px 1px rgb(120,120,120), -1px -1px rgb(120,120,120), -1px 1px rgb(120,120,120), 1px -1px rgb(120,120,120), 0 0 20px rgb(255, 187, 0), 0 0 20px rgb(255, 187, 0);
+  text-shadow: 2px 0 rgb(120,120,120), -2px 0 rgb(120,120,120), 0 2px rgb(120,120,120), 0 -2px rgb(120,120,120), 1px 1px rgb(120,120,120), -1px -1px rgb(120,120,120), -1px 1px rgb(120,120,120), 1px -1px rgb(120,120,120), 0 0 20px rgb(255, 238, 0), 0 0 20px rgb(255, 187, 0), 0 0 20px rgb(255, 187, 0), 0 0 20px rgb(255, 238, 0);
 }
 
 /* 1-5  BOX1*/
